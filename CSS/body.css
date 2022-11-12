@@ -1,0 +1,63 @@
+.container {
+    min-height: 100vh;
+}
+
+.background {
+    background: rgba(0, 0, 0, 0.1) url('../IMG/main.jpg');
+    background-size: cover;
+    background-blend-mode: darken;
+}
+
+.logo {
+    margin-top: 15px;
+    margin-left: 31px;
+    max-height: 70px;
+    width: auto;
+    /* border: 2px solid rgb(245, 77, 10); */
+    border-radius: 50px;
+}
+
+.search2 {
+    margin-top: -22px;
+    text-align: center;
+}
+
+.namaste {
+    font-family: 'Samarkan', sans-serif;
+    color: rgb(249, 91, 13);
+    font-size: 50px;
+}
+
+/* #search{
+    padding: 7px;
+    width: 334px;
+    border-radius: 14px;
+    margin-top: 24px;
+}
+.btn-sn{
+    margin-left: 3.5px;
+    padding: 6px;
+    border-radius: 14px;
+} */
+.aboutBihar {
+    position: relative;
+    display: flex;
+    margin-top: 21%;
+}
+
+.aboutBihar1 {
+    margin-left: 2%;
+    margin-right: 30%;
+    display: flex;
+    color: white;
+    width: 50%;
+
+}
+
+.aboutBihar2 {
+    margin-left: 2%;
+    margin-right: 2%;
+    float: right;
+    width: 50%;
+    color: white;
+}

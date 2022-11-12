@@ -1,0 +1,88 @@
+.dBihar1{
+    margin-top: 27px;
+    margin-left: 20px;
+}
+
+.godB {
+    background: rgba(0, 0, 0, 0.1) url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTnE61JOR8kSOE2jp6a1h-Xz9GWjaOyYbpsQ&usqp=CAU');
+    background-size: cover;
+    background-blend-mode: darken;
+}
+
+.thrillB {
+    background: rgba(0, 0, 0, 0.1) url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeNGm83pWTYLeWg2wul6r95KlRIyN9aRrEch7z2B07p5zb4LxxeidFT5Ff2xG-fY7eeNQ&usqp=CAU');
+    background-size: cover;
+    background-blend-mode: darken;
+}
+
+.natureB {
+    background: rgba(0, 0, 0, 0.1) url('https://cdn.pixabay.com/photo/2015/10/01/20/15/landscape-967630__340.jpg');
+    background-size: cover;
+    background-blend-mode: darken;
+}
+
+.wildB {
+    background: rgba(0, 0, 0, 0.1) url('https://www.trawell.in/blog/wp-content/uploads/2017/03/Bandhavgarh_Main.jpg');
+    background-size: cover;
+    background-blend-mode: darken;
+}
+
+.pastB {
+    background: rgba(0, 0, 0, 0.1) url('https://nalandauniversity.files.wordpress.com/2011/03/nalanda_university.jpg');
+    background-size: cover;
+    background-blend-mode: darken;
+}
+
+.GhistoryB {
+    background: rgba(0, 0, 0, 0.1) url('https://www.youngisthan.in/hindi/wp-content/uploads/2015/08/samrat-ashoka.jpg');
+    background-size: cover;
+    background-blend-mode: darken;
+}
+
+.foodB {
+    background: rgba(0, 0, 0, 0.1) url('https://30stades.com/wp-content/uploads/2020/11/bihari-food-thali-30stades.jpg');
+    background-size: cover;
+    background-blend-mode: darken;
+}
+
+.cultureB {
+    background: rgba(0, 0, 0, 0.1) url('https://images.news18.com/ibnlive/uploads/2021/10/chhath-puja.jpg');
+    background-size: cover;
+    background-blend-mode: darken;
+}
+
+.discoverB {
+    margin-top: 15px;
+    margin-bottom: 27px;
+    margin-left: 15px;
+    display: flex;
+    overflow-x: scroll;
+}
+
+.impB{
+    margin-left: 7px;
+    margin-right: 7px;
+    margin-bottom: 14px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.discoverP{
+    height: 220px;
+    width: 180px;
+    text-align:center;
+    color: aliceblue;
+}
+.bolbam {
+    background: rgba(0, 0, 0, 0.1) url('https://drscdn.500px.org/photo/202655683/q%3D80_m%3D2000/v2?webp=true&sig=271e8feea978f2bee85ad3ea070be5e72e8a0e374f209234c5a3791ae24a8722');
+    background-size: cover;
+    background-blend-mode: darken;
+}
+
+.pop01{
+    display: flex;
+    justify-content: center;
+}
+/* .Popular{
+    border: 5px solid red;
+    border-radius: 50px;
+} */

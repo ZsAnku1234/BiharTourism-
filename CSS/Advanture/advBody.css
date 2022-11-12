@@ -1,0 +1,49 @@
+.background1 {
+    background: rgba(0, 0, 0, 0.1) url('https://images.thrillophilia.com/image/upload/s--QZs0ZNRN--/c_fill,h_600,q_auto,w_975/f_auto,fl_strip_profile/v1/images/photos/000/365/667/original/1611322838_Rocket-Ejector.jpg.jpg?1611322837');
+    background-size: cover;
+    background-blend-mode: darken;
+}
+
+.background2 {
+    background: rgba(0, 0, 0, 0.1) url('https://d35y6w71vgvcg1.cloudfront.net/media/2021/11/chhath-puja-2021-mahaparv-to-start-from-november-8-know-worship-method-and-importance_730X365.gif');
+    background-size: cover;
+    background-blend-mode: darken;
+}
+
+.background3 {
+    background: rgba(0, 0, 0, 0.1) url('https://indroyc.files.wordpress.com/2015/08/litti-inside-image.jpg');
+    background-size: cover;
+    background-blend-mode: darken;
+}
+
+.B02 {
+    height: 85vh;
+}
+
+.heading1 {
+    color: white;
+    text-align: center;
+    padding-top: 97px;
+}
+
+.h01 {
+    margin-top: 40px;
+    margin-left: 21px;
+}
+
+.part {
+    display: flex;
+    padding: 0 10px;
+}
+
+.img01 {
+    max-height: 350px;
+    max-width: 350px;
+    border-radius: 20px;
+    margin-left: 20px;
+    padding: auto 0;
+}
+
+.p01 {
+    margin: 10px 30px;
+}
